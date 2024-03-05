@@ -1,4 +1,4 @@
-# React Todo Application
+# React Task manager Application
 
 This is a simple Todo application built using React for the frontend, Express.js and Node.js for the backend, and JWT for user authentication. The application allows users to sign up, login, and manage their daily tasks effectively.
 
